@@ -1,6 +1,6 @@
 TP - Programación EAN 2024
 Integrantes:
-Marcos Israel Mamani Ticona
+Marcos Israel Mamani Ticona,
 Daniel Pedro Mamani Chambi
 
 Incluye:
